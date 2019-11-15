@@ -1,0 +1,11 @@
+C:\Users\OWNER\workspace\CSharpDemos\listDemo\bin\Debug\netcoreapp3.0\listDemo.exe
+C:\Users\OWNER\workspace\CSharpDemos\listDemo\bin\Debug\netcoreapp3.0\listDemo.deps.json
+C:\Users\OWNER\workspace\CSharpDemos\listDemo\bin\Debug\netcoreapp3.0\listDemo.runtimeconfig.json
+C:\Users\OWNER\workspace\CSharpDemos\listDemo\bin\Debug\netcoreapp3.0\listDemo.runtimeconfig.dev.json
+C:\Users\OWNER\workspace\CSharpDemos\listDemo\bin\Debug\netcoreapp3.0\listDemo.dll
+C:\Users\OWNER\workspace\CSharpDemos\listDemo\bin\Debug\netcoreapp3.0\listDemo.pdb
+C:\Users\OWNER\workspace\CSharpDemos\listDemo\obj\Debug\netcoreapp3.0\listDemo.csprojAssemblyReference.cache
+C:\Users\OWNER\workspace\CSharpDemos\listDemo\obj\Debug\netcoreapp3.0\listDemo.AssemblyInfoInputs.cache
+C:\Users\OWNER\workspace\CSharpDemos\listDemo\obj\Debug\netcoreapp3.0\listDemo.AssemblyInfo.cs
+C:\Users\OWNER\workspace\CSharpDemos\listDemo\obj\Debug\netcoreapp3.0\listDemo.dll
+C:\Users\OWNER\workspace\CSharpDemos\listDemo\obj\Debug\netcoreapp3.0\listDemo.pdb
